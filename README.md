@@ -7,4 +7,4 @@
 # Quarter 1
 
 [View my Computational Thinking Exercise](q1/ctskillsMagnesiumFortuno.md)
-[Chinese Zodiac Program Code](q1/zodiacMagnesiumFortuno.py)
+[Chinese Zodiac Program Code](q1/zodiacMagnesiumFortuno.md)
