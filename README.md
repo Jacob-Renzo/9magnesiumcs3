@@ -5,3 +5,4 @@
 **Section:** Magnesium
 
 # Quarter 1
+[Computational Thinking Exercise] (q1/ctskillsMagnesiumFortuno.md)
