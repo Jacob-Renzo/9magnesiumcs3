@@ -35,14 +35,12 @@ The TikTokAccount class represents a user's account on TikTok. It stores basic a
 | DisplayName : string                           |
 | followers : int                                |
 | videosPosted : int                             |
-|                                                |
 +------------------------------------------------+
 | postVideo(title : string)                      |
 | gainFollowers                                  |
 | updateProfile(newName : string)                |
 | displayInfo()                                  |
 +------------------------------------------------+
-
 
 ## Design Explanation
 
