@@ -7,7 +7,11 @@
 # Quarter 1
 
 [View my Computational Thinking Exercise](q1/ctskillsMagnesiumFortuno.md)
+
 [Chinese Zodiac Program Code](q1/zodiacMagnesiumFortuno.md)
+
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+
 [My OOP Seed System](q1/classObjectUML.md)
+
 [OOPActPartII](q1/classAttributesMethods.md)
