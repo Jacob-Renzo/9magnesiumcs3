@@ -11,3 +11,4 @@
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 [My OOP Seed System](q1/classObjectUML.md)
 [OOPActPartII](q1/classAttributesMethods.md)
+[My OOP Seed System - Part III](q1/classRelationships.md)
